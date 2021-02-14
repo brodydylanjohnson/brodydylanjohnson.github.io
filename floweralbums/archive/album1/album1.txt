@@ -1,0 +1,216 @@
+1
+'1'
+'John W. Palokonis'
+2
+'1'
+'Mary Jane Palokonis (1924)'
+3
+'0'
+'Jack Flower (row 2, third from left)'
+4
+'1'
+'Mary Silver (16 years old)'
+5
+'1'
+'Alfred & Anna Kaiser (1929)'
+6
+'1'
+'John Palokonis'
+7
+'1'
+'John Palokonis'
+8
+'1'
+'unknown'
+9
+'0'
+'unknown'
+10
+'1'
+'Stella, Neva, Pearl, Ruth, Mary, and Nellie Silver'
+11
+'0'
+'Mary with Dorothy, Betty, and Mary Jane'
+12
+'0'
+'Dorothy, Betty, and Mary Jane'
+13
+'1'
+'Bobby Palokonis'
+14
+'1'
+'Mary Jane (1929, 5 years old)'
+15
+'1'
+'Jack (1939)'
+16
+'1'
+'Jack (1939)'
+17
+'1' 
+'Mary Jane (1940)'
+18
+'1'
+'Mary Jane and friend (1941)'
+19
+'1'
+'Mary Jane (1942)'
+20
+'1'
+'Mary Jane (1942)'
+21
+'1'
+'Mary Jane (1942)'
+22
+'0'
+'Mary Jane'
+23
+'0'
+'Mary Jane (yearbook photo)'
+24
+'0'
+'Play (Mary Jane sitting facing left)'
+25
+'0'
+'Mary Jane (class photo; bottom left)'
+26
+'0'
+'Student Council (sitting at left of far corner)'
+27
+'1'
+'Mary Jane (18 years old)'
+28
+'0'
+'Jack'
+29
+'1'
+'Mary Jane and Nickie (1942)'
+30
+'1'
+'Mary Jane and Nickie (1942)'
+31
+'1'
+'Mary Jane (1942)'
+32
+'0'
+'Mary Jane and friend (1942)'
+33
+'1'
+'Mary Jane (1942)'
+34
+'1'
+'Mary Jane with Billy (1944)'
+35
+'1'
+'Mary Jane with Billy (April 1944)'
+36
+'1'
+'Mary Jane with Billy (April 1944)'
+37
+'1'
+'Billy (April 1944)'
+38
+'1'
+'Billy (April 1944)'
+39
+'1'
+'Mary Jane hanging diapers (4/16/44)'
+40
+'1'
+'Mary Jane with Billy (Billy at 1 week old)'
+41
+'1'
+'Billy'
+42
+'1'
+'Billy'
+43
+'1'
+'Billy'
+44
+'1'
+'Mary Jane with Billy'
+45
+'1'
+'Mary Jane (Air Force t-shirt)'
+46
+'0'
+'Billy'
+47
+'1'
+'Grandma Palokonis'
+48
+'0'
+'Billy'
+49
+'1'
+'Billy'
+50
+'1'
+'Billy'
+51
+'1'
+'Billy'
+52
+'1'
+'Mary Jane'
+53
+'0'
+'Billy'
+54
+'1'
+'Billy'
+55
+'1'
+'Billy'
+56
+'1'
+'Billy'
+57
+'1'
+'Billy'
+58
+'1'
+'Billy (March 28, 1944)'
+59
+'1'
+'Betty with Billy'
+60
+'1'
+'Mary Jane with Billy'
+61
+'1'
+'Mary Jane with Billy'
+62
+'0'
+'unknown'
+63
+'1'
+'Billy'
+64
+'1'
+'Jack with Billy'
+65
+'1'
+'Mary Jane'
+66
+'0'
+'Jack and Bobby Ratliff'
+67
+'0'
+'Mary Jane and Jack (left); Billy (far right)'
+68
+'0'
+'Billy'
+69
+'1'
+'Billy'
+70
+'1'
+'Betty'
+71
+'1'
+'Betty'
+72
+'1'
+'Mary'

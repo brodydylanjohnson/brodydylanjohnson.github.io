@@ -1,0 +1,192 @@
+1
+'1'
+'Jimmy Flower (1953)'
+2
+'0'
+'Jimmy at one month (1953)'
+3
+'1'
+'Jimmy (May 9, 1953)'
+4
+'1'
+'Kathie with Jimmy (Jimmy at 3 weeks)'
+5
+'1'
+'Jimmy at two weeks'
+6
+'0'
+'Billy (1953)'
+7
+'0'
+'Jimmy (1953)'
+8
+'0'
+'Kathie, Jimmy (2.5 mos.), and Billy (1953)'
+9
+'0'
+'Kathie (June 1953)'
+10
+'0'
+'Jimmy, Jack, and Kathie (December 1953)'
+11
+'0'
+'Jimmy (July 1953)'
+12
+'1'
+'Jimmy (December 1953; 7 mos.)'
+13
+'1'
+'Kathie'
+14
+'1'
+'Jack (February 1953)'
+15
+'1'
+'Kathie'
+16
+'1'
+'Mary Jane (1953)'
+17
+'1'
+'Mark, Billy, Jimmy (1 mo.), Kathie, Tommy, & David'
+18
+'1'
+'Abbey and Bessie (Easter 1952)'
+19
+'0'
+'Jimmy (1953; 7 mos.)'
+20
+'0'
+'Jack, Billy, Kathie, and Jimmy (3 weeks)'
+21
+'0'
+'Jimmy'
+22
+'0'
+'Jimmy'
+23
+'0'
+'Kathie, Mary Jane, and Jimmy (July 1953)'
+24
+'0'
+'Billy, Mary Jane, Jimmy (1 mo.), and Kathie'
+25
+'0'
+'Kathie (July 1952)'
+26
+'0'
+'Kathie, Mark, and David'
+27
+'0'
+'Billy, Mary Jane, and Kathie (February 1953)'
+28
+'0'
+'Diane, Sherry, and Bobby (June 1953)'
+29
+'0'
+'Diette, Billy, and Kathie'
+30
+'0'
+'Kathie'
+31
+'0'
+'Billy and Kathie'
+32
+'1'
+'Billy and Kathie'
+33
+'1'
+'Jimmy, Billy, and Kathie (X-mas 1953)'
+34
+'1'
+'Kathie'
+35
+'1'
+'Kathie'
+36
+'0'
+'Jimmy, Billy, and Kathie'
+37
+'1'
+'Kathie (February 1953)'
+38
+'1'
+'Billy, Jack, and Kathie (February 1953)'
+39
+'0'
+'Jimmy, Billy, and Kathie (X-mas 1953)'
+40
+'0'
+'Billy, Kathie, and Jimmy'
+41
+'0'
+'Jimmy'
+42
+'0'
+'Jack (middle; New Year''s Eve 1953)'
+43
+'0'
+'Jack and Mary Jane (far left)'
+44
+'0'
+'Jack and Mary Jane (left)'
+45
+'0'
+'Jimmy, Billy, and Kathie (January 1954)'
+46
+'0'
+'Kathie, Billy, and Jimmy'
+47
+'0'
+'Jimmy, Billy, Tom, and Kathie'
+48
+'1'
+'Kathie and Jimmy'
+49
+'1'
+'Billy (10 years old)'
+50
+'1'
+'Jimmy (May 1954 - Jimmy''s Birthday'
+51
+'1'
+'Jimmy'
+52
+'0'
+'Kathie, Jimmy, and Billy (January 1954)'
+53
+'0'
+'Kathie and Jimmy'
+54
+'0'
+'Kathie, Billy, and Jimmy'
+55
+'0'
+'Kathie, Jack, Jimmy, and Billy'
+56
+'0'
+'Jimmy'
+57
+'0'
+'Kathie (middle)'
+58
+'0'
+'The Flower family'
+59
+'0'
+'Jimmy'
+60
+'0'
+'Kathie'
+61
+'1'
+'Jimmy (1955)'
+62
+'1'
+'Jack and Kathie'
+63
+'1'
+'Jimmy and Kathie'
+64
+'1'
+'Jimmy (1955)'

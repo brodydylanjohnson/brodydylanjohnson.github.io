@@ -1,0 +1,90 @@
+WATFOR-77 V3.1 Copyright WATCOM Systems Inc. 1984,1989  05/02/06 13:45:39
+
+Options: list,disk,extensions,warnings,edit,exe,xtype,terminal,logio,check,arraycheck
+
+      1       program indexer
+*EXT* CC-04 character encountered is not FORTRAN 77 standard
+*EXT* VA-02 symbolic name INDEXER is longer than 6 characters
+      2       integer i,nalb,npg
+      3       character fname*12,pn*2,an*2,cap1*60,cap2*60,name*12
+        
+      4    1  write(*,*) 'Album Number: '
+      5       read(*,*) nalb
+      6       if ((nalb.lt.0) .or. (nalb.ge.100)) goto 1
+        
+      7    2  write(*,*) 'Number of Pages: (1<=pages<=99)'
+      8       read(*,*) npg
+      9       if ((npg.le.0) .or. (npg.ge.100)) goto 2
+        
+     10       an = char((nalb-mod(nalb,10))/10+48) //
+             $     char(mod(nalb,10)+48)
+     11       name = 'album' // an // '.txt'
+     12       open(5,file=name,status='old')
+        
+     13       fname = 'alb' // an // 'toc' // '.htm'
+     14       open(4,file=fname,status='new')
+        
+        C  WRITING HTM FILE FOR ALBUM INDEX
+     15       write(4,*) '<html>'
+     16       write(4,*) '<head>'
+     17       write(4,*) '<title>Table of Contents</title>'
+     18       write(4,*) '<link rel="stylesheet" type="text/css"',
+             $           ' href="..htmlfiles/album.css" />'
+     19       write(4,*) '<script src="../htmlfiles/hotchocolate.js"> </script>'
+     20       write(4,*) '</head>'
+     21       write(4,*) '<body>'
+     22       write(4,*) '<table class="covernav">'
+     23       write(4,*) '<tr><td class="middle">'
+     24       write(4,*) '<a class="bj" href="./index.html"> <h1>',
+             $           'Cover </h1> </a>'
+     25       write(4,*) '</td></tr>'
+     26       write(4,*) '</table>'
+     27       write(4,*) '<table class="toc">'
+     28       write(4,*) '<tr><td colspan="2" align="center"> <h2>',
+             $           ' Table of Contents'
+     29       write(4,*) '</h2><br></td></tr>'
+     30       write(4,*) '<tr><td class="num">'
+     31       write(4,*) '<u>Photo Number</u>'
+     32       write(4,*) '</td><td class="cap">'
+     33       write(4,*) '<u>Photo Caption</u>'
+     34       write(4,*) '</td></tr>'
+        
+     35       do 51 i=1,npg
+     36         pn = char((i-mod(i,10))/10+48) //             $       char(mod(i,10)+48)
+     37         fname = 'alb' // an // pn // '.htm'
+     38         read(5,*)
+     39         read(5,*)
+     40         read(5,*) cap1
+     41         write(4,*) '<tr><td class="num">'
+     42         write(4,*) '<a class="bj" href="./',fname,'">'
+     43         write(4,*) char((i-mod(i,10))/10+48) //
+             $             char(mod(i,10)+48) // '(a) </a>'
+     44         write(4,*) '</td><td class="cap">'
+     45         write(4,*) cap1
+     46         write(4,*) '</td></tr>'
+        
+     47         read(5,*)
+     48         read(5,*)
+     49         read(5,*) cap2
+     50         write(4,*) '<tr><td class="num">'
+     51         write(4,*) '<a class="bj" href="./',fname,'">'
+     52         write(4,*) char((i-mod(i,10))/10+48) //
+             $             char(mod(i,10)+48) // '(b) </a>'
+     53         write(4,*) '</td><td class="cap">'
+     54         write(4,*) cap2
+     55         write(4,*) '</td></tr>'
+     56  51   continue
+        
+     57       write(4,*) '</table>'
+     58       write(4,*) '</body>'
+     59       write(4,*) '</html>'
+     60       close(4)
+     61       close(5)
+     62       end
+
+
+Compile time:                      00.00  Execution time:              00.00
+Size of object code:                1938  Number of extensions:            2
+Size of local data area(s):         1066  Number of warnings:              0
+Size of global data area:            148  Number of errors:                0
+Object/Dynamic bytes free:  351120/48474  Statements Executed:             0

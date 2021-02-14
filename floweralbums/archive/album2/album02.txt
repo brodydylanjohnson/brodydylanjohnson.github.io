@@ -1,0 +1,282 @@
+1
+'1'
+'Kathleen Mary Flower (1950)'
+2
+'0'
+'Dorothy & George Chasco (Mary Jane in blue)'
+3
+'1'
+'Mary Jane and Billy (1946)'
+4
+'1'
+'Mary Jane, Betty, and Tom (May 27, 1944)'
+5
+'1'
+'Billy at far right'
+6
+'0'
+'Mary Jane'
+7
+'0'
+'Mary Jane'
+8
+'0'
+'Betty and Dorothy'
+9
+'0'
+'Dorothy'
+10
+'0'
+'unknown'
+11
+'1'
+'Mary Jane (1941)'
+12
+'1'
+'Billy (1945)'
+13
+'1'
+'Mary Jane and Billy (1944)'
+14
+'1'
+'Mary Jane and Billy (1944)'
+15
+'1'
+'Billy'
+16
+'1'
+'Billy with his bottle (1 year old)'
+17
+'1'
+'Billy (1 year old)'
+18
+'1'
+'Billy (1 year old)'
+19
+'1'
+'Billy (1 year old)'
+20
+'1'
+'Billy (1 year old)'
+21
+'1'
+'Mary Jane (1946)'
+22
+'1'
+'Billy (July 1946)'
+23
+'3'
+'Billy (1946)*'
+24
+'1'
+'Billy (1946)'
+25
+'1'
+'Diane Ratliff (1946)'
+26
+'1'
+'Diette & Billy'
+27
+'1'
+'Jackie & Mary'
+28
+'0'
+'Tom, Billy, Dave, & Diane'
+29
+'0'
+'Jackie and Grandma Palokonis'
+30
+'0'
+'Jackie, Tommy, and Bobby'
+31
+'0'
+'Jackie, Betty, Tommy, Mary Jane, Dorothy, & Bobby'
+32
+'0'
+'Mary Jane'
+33
+'3'
+'Jack*'
+34
+'1'
+'Jack'
+35
+'1'
+'Jack'
+36
+'0'
+'Bobby'
+37
+'0'
+'Bobby with Billy'
+38
+'0'
+'Nicky, Billy, and Tommy'
+39
+'0'
+'Tommy(?) and Billy (1946)'
+40
+'0'
+'Bessie, Mary Jane, and Billy (August 1947)'
+41
+'0'
+'Bobby, Nicky, Jackie, Billy, & Tommy'
+42
+'0'
+'Jack and Mary Jane (fall 1947)'
+43
+'0'
+'Jack and Mary Jane (fall 1947)'
+44
+'1'
+'Jack (fall 1947)'
+45
+'1'
+'Bessie and Johnny with Billy (1947)'
+46
+'0'
+'Jack, Mary Jane, and Billy (1947)'
+47
+'1'
+'Uncle Johnny with Billy (1947)'
+48
+'1'
+'Johnny and Bessie (1947)'
+49
+'0'
+'Jack and Mary Jane (1948)'
+50
+'1'
+'Billy, Diette, and Jack (1948)'
+51
+'1'
+'Billy'
+52
+'1'
+'Billy'
+53
+'0'
+'Jack and Tommy'
+54
+'1'
+'Jack and Billy'
+55
+'1'
+'Jack Flower'
+56
+'0'
+'Jack (1948)'
+57
+'0'
+'Mary Jane (1948)'
+58
+'1'
+'Billy, Jack, and Tommy'
+59
+'1'
+'Mary and Jack'
+60
+'1'
+'Jack and Billy (1948)'
+61
+'1'
+'Billy (1949)'
+62
+'1'
+'Billy (1949)'
+63
+'1'
+'Kathleen Mary Flower (February 8, 1950)'
+64
+'1'
+'Kathie'
+65
+'0'
+'Kathie (3.5 months)'
+66
+'1'
+'Mary Jane with Kathie'
+67
+'0'
+'Kathie (August 1950)'
+68
+'0'
+'Billy, Jack, and Kathie (September 1950)'
+69
+'1'
+'Mark Chasco'
+70
+'1'
+'Billy and Kathie (May 1, 1951)'
+71
+'1'
+'Billy'
+72
+'0'
+'Mary Jane and Kathie'
+73
+'0'
+'Jack and Kathie'
+74
+'1'
+'Billy (in the Cub Scouts)'
+75
+'1'
+'Kathie'
+76
+'1'
+'Billy and Kathie (June 1952)'
+77
+'0'
+'Gail and Mitchell'
+78
+'0'
+'Billy (3rd from left in front row)'
+79
+'0'
+'Billy (4th from left in front row)'
+80
+'1'
+'David Chasco'
+81
+'0'
+'Abbey and Kathie (Easter 1952)'
+82
+'1'
+'Billy and Kathie (May 1952)'
+83
+'0'
+'Abbey and Bessie Revoir with Jack (Easter 1952)'
+84
+'1'
+'Billy and Kathie (May 1952)'
+85
+'1'
+'Billy, Mary Jane, and Kathie (July 1952)'
+86
+'1'
+'Kathie (June 1952)'
+87
+'1'
+'Kathie (July 25, 1952)'
+88
+'1'
+'Jack (1952)'
+89
+'1'
+'Billy and Kathie (1953)'
+90
+'0'
+'Kathie''s 2nd birthday (Julie/Jay far left)'
+91
+'0'
+'Picnic (July 1, 1952; Julie/Harry at right)'
+92
+'3'
+'Kathie*'
+93
+'1'
+'Kathie (1 year old)'
+94
+'1'
+'Kathie (3 years old)'

@@ -1,0 +1,228 @@
+1
+'1'
+'Jack Flower (1961)'
+2
+'1'
+'Mary Jane Flower (1961)'
+3
+'1'
+'James Guy Flower (1961)'
+4
+'1'
+'Kathleen Mary Flower (1961)'
+5
+'0'
+'Billy, Kathie, Jimmy, Mitchel, Diette'
+6
+'0'
+'Billy, Gail, Kathie'
+7
+'1'
+'Kathie, Jimmy? (behind Kathie), and Billy'
+8
+'0'
+'Diette, Gail, and Julie'
+9
+'0'
+'Harry, Gail, Jack, and Mary Jane (1958)'
+10
+'1'
+'Kathie at right'
+11
+'0'
+'Billy''s class (1958)'
+12
+'1'
+'Bessie in 1958'
+13
+'0'
+'Jimmy, Billy, and Kathie (1959)'
+14
+'1'
+'Billy (1959)'
+15
+'1'
+'Jimmy (right; 1959)'
+16
+'1'
+'Christopher (Thanksgiving Day 1959)'
+17
+'1'
+'Kathie'
+18
+'1'
+'Sherri'
+19
+'0'
+'Jack, Jimmy, and Kathie (Canada 1959)'
+20
+'0'
+'Canada (1959)'
+21
+'1'
+'Harry and Julie in Canada'
+22
+'1'
+'Billy and Jack'
+23
+'1'
+'Jack'
+24
+'0'
+'Jack'
+25
+'0'
+'Jimmy (1960)'
+26
+'0'
+'Kathie (1960)'
+27
+'1'
+'Kathie and Jimmy (X-mas 1959)'
+28
+'0'
+'Kathie and Jimmy'
+29
+'0'
+'Uncle Johnny'
+30
+'0'
+'Uncle Johnny'
+31
+'0'
+'Mary Jane (1960)'
+32
+'0'
+'Kathie and Jimmy (blue ''54 Ford - Sue)'
+33
+'0'
+'Kathie'
+34
+'0'
+'Bobby Ratliff'
+35
+'0'
+'Jimmy'
+36
+'0'
+'Jimmy and friend(?)'
+37
+'0'
+'Lucky (double exposure - Kathie & piano)'
+38
+'0'
+'Billy, Kathie, and Jimmy'
+39
+'0'
+'Kathie and Julie'
+40
+'0'
+'Jack and Julie (1961)'
+41
+'1'
+'Kathie and Jim'
+42
+'1'
+'Jack and Mary Jane (1961)'
+43
+'1'
+'Julie'
+44
+'1'
+'Jim (1961)'
+45
+'1'
+'Jim, Jack, Kathie, and Lucky'
+46
+'1'
+'Jim, Kathie, Billy, and Lucky'
+47
+'1'
+'Jim, Kathie, and Lucky'
+48
+'1'
+'Uncle Johnny'
+49
+'1'
+'Chuckie and Gail Palokonis'
+50
+'1'
+'Chuckie'
+51
+'1'
+'Jimmy, Lucky, and Kathie'
+52
+'1'
+'Julie, Bonnie, Jay, Kathie, Mary Jane, Jack (''62)'
+53
+'1'
+'Johnny, Billy, and Randy'
+54
+'1'
+'Julie, Jack, Mary Jane, Kathie, Bonnie, and Jay'
+55
+'1'
+'Flowers with George, Mary H., Mark, Amy, & Dorothy'
+56
+'1'
+'Kathie and Jimmy'
+57
+'1'
+'Billy'
+58
+'1'
+'Billy'
+59
+'0'
+'Billy (1962)'
+60
+'0'
+'Jimmy, Billy, Kathie, Jack (1963)'
+61
+'0'
+'Kathie'
+62
+'1'
+'Jack, Jimmy, Kathie'
+63
+'0'
+'Christmas 1962'
+64
+'0'
+'Kathie''s Party'
+65
+'1'
+'Kathie and Jimmy'
+66
+'1'
+'Mary Jane and Jack'
+67
+'0'
+'Jack'
+68
+'0'
+'Jack, Mary H., Barbara, Tom, Gail, Kathie, and Jim'
+69
+'1'
+'Billy'
+70
+'3'
+'Billy*'
+71
+'2'
+'Billy in Vietnam*'
+72
+'3'
+'Billy and crew chief Da Nang AB*'
+73
+'2'
+'Billy* (C-123 crash site)'
+74
+'2'
+'Billy* (C-123 crash site)'
+75
+'2'
+'Billy at Da Nang AB, Vietnam*'
+76
+'2'
+'Monkey Mountain*'

@@ -1,0 +1,288 @@
+1
+'1'
+'Gina, Brian, and Billie Jo'
+2
+'1'
+'Billy, Jack, and Brian'
+3
+'1'
+'Gina, Billy, Billie Jo, and Brian (1979)'
+4
+'1'
+'Jack'
+5
+'1'
+'Jack with Jason and Damon'
+6
+'1'
+'Brian, Gina w/Bruce, Brody, and Billie Jo'
+7
+'1'
+'Billy, Brian, Gina w/Damon, Brody, Billie Jo w/Bruce'
+8
+'1'
+'Mary Jane (July 1979)'
+9
+'1'
+'Brody and Bruce (October 1979)'
+10
+'1'
+'Bruce (October 1979)'
+11
+'1'
+'Billie Jo, Brian, Brody, and Bruce (Milwaukee Zoo ''79)'
+12
+'1'
+'Bruce''s birthday 1979'
+13
+'1'
+'Billie Jo, Bruce, Brian, and Brody'
+14
+'0'
+'Janice''s birthday (November 5, 1979)'
+15
+'0'
+'Janice''s birthday 1979'
+16
+'0'
+'Janice and Billy'
+17
+'0'
+'Jim and his 1979 Thunderbird'
+18
+'0'
+'Janice, Damon, and Jason'
+19
+'0'
+'Jim and Kathy Lynn (November 5, 1979)'
+20
+'1'
+'Kathy Lynn and Jim'
+21
+'1'
+'Jack and Jim'
+22
+'1'
+'Billie Jo, Brian, Bruce, and Brody (X-mas ''79)'
+23
+'0'
+'Julie and Jack (December 27, 1979)'
+24
+'1'
+'Jim (X-mas ''79)'
+25
+'1'
+'Kathy Lynn (X-mas ''79)'
+26
+'1'
+'Jim (X-mas ''79)'
+27
+'0'
+'Brody, Billie Jo, Bruce, and Brian (1979)'
+28
+'1'
+'Shawn (X-mas ''79)'
+29
+'1'
+'Shawn (X-mas ''79)'
+30
+'0'
+'Jim and Kathy Lynn'
+31
+'1'
+'Kathy Lynn and Jim'
+32
+'1'
+'Southfork Ranch (1980)'
+33
+'1'
+'Southfork Ranch (1980)'
+34
+'1'
+'Mary Jane and Jack (Texas, 1980)'
+35
+'1'
+'A beach in Texas'
+36
+'1'
+'A beach in Texas, Part II'
+37
+'0'
+'Making Easter eggs (April 5, 1980)'
+38
+'0'
+'Brody, Billie Jo, Bruce, and Brian'
+39
+'0'
+'Meredith (who Kathie babysat for in OH)'
+40
+'1'
+'Bruce (Rockford, IL)'
+41
+'0'
+'Brody, Bruce, Brian, and Billie Jo (Easter 1980)'
+42
+'1'
+'Bruce''s 3rd birthday (Rockford, IL)'
+43
+'1'
+'Billie Jo, Bruce, Brody, and Brian'
+44
+'1'
+'Bruce on his 3rd birthday'
+45
+'1'
+'Jack and Nicky'
+46
+'1'
+'Jack and Nicky'
+47
+'1'
+'Lori(?) Kosinsky'
+48
+'1'
+'Lori''s wedding party'
+49
+'1'
+'Harry and Dolores Kosinsky'
+50
+'1'
+'Wedding reception'
+51
+'1'
+'Jack'
+52
+'1'
+'Julie and Jack'
+53
+'1'
+'Lake Michigan'
+54
+'1'
+'Jack'
+55
+'1'
+'Billie Jo, Brody, Bruce, and Brian (Jack in back)'
+56
+'1'
+'Bruce (1980)'
+57
+'1'
+'Kathie w/Bruce, Bill w/Brody, Billie Jo, and Brian'
+58
+'1'
+'Tommy and Barbara Palokonis'
+59
+'1'
+'Jack at the Domes'
+60
+'1'
+'Mary Jane at the Domes'
+61
+'1'
+'Texas'
+62
+'1'
+'Texas'
+63
+'1'
+'Jim and Kathy Lynn'
+64
+'1'
+'Jim, Bruce, Brody, and Kathie'
+65
+'0'
+'Brian''s birthday party'
+66
+'0'
+'Kathie, Brody, and Bruce (Michigan 1978)'
+67
+'1'
+'Brody'
+68
+'0'
+'Billie Jo w/a fish'
+69
+'1'
+'Janice, Greg, Jason, and Billy (Thanksgiving)'
+70
+'1'
+'Thanksgiving 1980'
+71
+'1'
+'Jack'
+72
+'1'
+'Jack and snowman'
+73
+'1'
+'Jack and Shawn'
+74
+'0'
+'Greg, Damon, Jason, Jack, Janice, Billy, & Gina'
+75
+'1'
+'Mary Jane (Rockford, IL)'
+76
+'0'
+'Jack and Shawn'
+77
+'1'
+'Bruce (X-mas 1980)'
+78
+'0'
+'Jim and Brian playing the Atari 2600'
+79
+'0'
+'Brian and Jack playing Atari'
+80
+'0'
+'Brian, Bruce, Brody, and Billie Jo (X-mas ''80)'
+81
+'0'
+'Bruce, Jack, and Shawn'
+82
+'1'
+'Shawn on his ba-ba'
+83
+'0'
+'Jason, Billy, Gina, and Damon'
+84
+'0'
+'Gina, Billy, Jason, and Damon'
+85
+'0'
+'unknown'
+86
+'1'
+'Mary Jane and Jack (Oct. 1981; Lubbock, TX)'
+87
+'1'
+'Bob and Betty'
+88
+'1'
+'The Ratliff''s (May 9, 1981)'
+89
+'1'
+'Mary Hafner (1981)'
+90
+'1'
+'Mary Hafner (1981)'
+91
+'0'
+'Mary Hafner (1981)'
+92
+'1'
+'Mary Hafner'
+93
+'3'
+'Gina* (13 years old)'
+94
+'1'
+'Billy (11 years old)'
+95
+'3'
+'Jason* (5 years old)'
+96
+'3'
+'Damon* (4 years old)'

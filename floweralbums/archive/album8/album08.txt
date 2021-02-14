@@ -1,0 +1,253 @@
+1
+'1'
+'Billie Jo (April 1971)'
+2
+'2'
+'Billie Jo* (July 1971)'
+3
+'2'
+'Billie Jo* (1971)'
+4
+'1'
+'Brian''s 1st birthday (June 12, 1971)'
+5
+'0'
+'Jack'
+6
+'1'
+'Bobby, Mary Jane, and Jack (Frankfurt)'
+7
+'1'
+'Mary Hafner (1971)'
+8
+'1'
+'Kathie w/Brian, Julie, Jack w/Billie Jo'
+9
+'1'
+'Brian and Billie Jo (May 9, 1971)'
+10
+'2'
+'Postcard from Billy*'
+11
+'1'
+'Gina feeding Brenna (1972)'
+12
+'1'
+'Gina w/Brenna, Billie Jo, Brian, & Billy'
+13
+'1'
+'Gina w/Brenna, Billie Jo, Billy, & Brian'
+14
+'1'
+'Gina w/Brenna and Billie Jo'
+15
+'1'
+'Billie Jo and Billy'
+16
+'1'
+'Billy and Gina (May 1972)'
+17
+'1'
+'Gina (May 1972)'
+18
+'1'
+'Janice, Billy, and Gina'
+19
+'1'
+'Jack and Mary Jane (1972)'
+20
+'1'
+'Mary Jane'
+21
+'1'
+'Mary Jane'
+22
+'1'
+'Jack and Harry'
+23
+'1'
+'Jack and Harry'
+24
+'0'
+'Brenna Marie (February 20, 1972)'
+25
+'0'
+'Billie Jo w/ Brenna (February 20, 1972)'
+26
+'1'
+'Brenna Marie Johnson (February 8, 1972; 6lbs. 19.5")'
+27
+'0'
+'Billie Jo, Brenna, Kathie, Brian, and Bill (May 1972)'
+28
+'1'
+'Brian, Brenna, and Billie Jo'
+29
+'1'
+'Billie Jo, Jack, and Brian'
+30
+'1'
+'Jim, Janice, and Billy''s friends'
+31
+'1'
+'Janice, Jim, and Billy''s friend'
+32
+'1'
+'Gina and Billy (November 12, 1972)'
+33
+'1'
+'Gina and Billy (1972)'
+34
+'1'
+'Billy'
+35
+'1'
+'Gina and Scruffy'
+36
+'0'
+'Gina and Billy (1972)'
+37
+'1'
+'Gina'
+38
+'0'
+'Jack (1972)'
+39
+'1'
+'Scruffy'
+40
+'1'
+'Billie Jo, Jack, and Brian'
+41
+'1'
+'Brian and Billie Jo (1972)'
+42
+'1'
+'Gina (5 yrs. old) and Billy (2 yrs. old)'
+43
+'0'
+'Jimmy (X-mas 1972)'
+44
+'2'
+'X-mas 1972*'
+45
+'3'
+'Billy and Gina*'
+46
+'0'
+'Brian and Billie Jo'
+47
+'3'
+'Gina* (1973)'
+48
+'0'
+'Mary Jane'
+49
+'0'
+'Gina and Billy (1972)'
+50
+'1'
+'Brian (1973)'
+51
+'1'
+'Billie Jo (1973)'
+52
+'1'
+'Gina, Jimmy, Billy, Jack, and Janice'
+53
+'1'
+'Gina, Mary Jane, Billy, Jimmy, and Janice'
+54
+'1'
+'Picnic'
+55
+'1'
+'Picnic'
+56
+'1'
+'Jack with Brian and Billie Jo'
+57
+'1'
+'Brian and Billie Jo'
+58
+'1'
+'Brian and Billie Jo'
+59
+'1'
+'Bill with Billie Jo and Brian'
+60
+'1'
+'Jack with Billie Jo and Brian'
+61
+'0'
+'Jack and Mary Jane with Billy and Gina (X-mas ''73)'
+62
+'1'
+'Gina, Mary Jane, and Billy'
+63
+'1'
+'Brian'
+64
+'1'
+'Mary Jane'
+65
+'1'
+'Jack'
+66
+'3'
+'Brody Dylan Johnson* (July 6, 1973)'
+67
+'0'
+'Billie Jo, Billy, Gina, and Brian (February 18, 1973)'
+68
+'0'
+'Billie Jo, Brody, and Brian (September 30, 1973)'
+69
+'0'
+'Jim (December 1973)'
+70
+'0'
+'Billy, Janice, and Gina'
+71
+'1'
+'Brody'
+72
+'1'
+'Brody'
+73
+'1'
+'Brian and Billie Jo w/Brody'
+74
+'1'
+'Gina, Janice, Billy, and Jack'
+75
+'1'
+'Gail, Jack, Mary Jane, Harry, and Julie'
+76
+'1'
+'Gina'
+77
+'1'
+'Harry and Julie''s dogs'
+78
+'1'
+'Janice, Billy, and Jack'
+79
+'1'
+'Janice, Gina, and Billy (1973)'
+80
+'1'
+'Jim and friend'
+81
+'1'
+'Jim and car'
+82
+'0'
+'Mary Jane at work'
+83
+'1'
+'Jack, Harry, and Julie'
+84
+'1'
+'Mary H. w/Brian, Jack w/Billie Jo, Kathie, and Bill'
+
