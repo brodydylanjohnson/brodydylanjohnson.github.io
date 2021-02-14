@@ -1,3 +1,0 @@
-YOU DUMMY!
-
-To compile with watfor87.exe type "run/exe"
