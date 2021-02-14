@@ -1,0 +1,210 @@
+1
+'0'
+'Billy (to Mr. Jannusch''s left)'
+2
+'0'
+'Kathie, Jimmy, and Billy (1955)'
+3
+'0'
+'Kathie, Jimmy, and Billy (1955)'
+4
+'0'
+'Jack and Jimmy'
+5
+'0'
+'Jimmy, Billy, Kathie, and Mark Chasco (Spring ''55)'
+6
+'0'
+'Jimmy and Jack'
+7
+'0'
+'Jimmy and Kathie'
+8
+'0'
+'Mitchel and Jimmy'
+9
+'0'
+'Kathie, Billy, and Jimmy'
+10
+'0'
+'Kathie (February 1955)'
+11
+'1'
+'Billy and Charlie'
+12
+'1'
+'Bessie and Abbey Revoir'
+13
+'0'
+'Mary Jane, Kathie, Jimmy, and Jack'
+14
+'0'
+'Jim, Kathie, Jay, and Mary Jane (1956)'
+15
+'0'
+'Kathie, Jimmy, and Billy'
+16
+'0'
+'Jimmy and Kathie'
+17
+'0'
+'Kathie, Jimmy, and Margie (July 1956)'
+18
+'0'
+'Jimmy, Kathie, and Margie'
+19
+'3'
+'Kathie and Jimmy*'
+20
+'3'
+'Easter 1956*'
+21
+'0'
+'Billy'
+22
+'0'
+'Billy'
+23
+'0'
+'Billy'
+24
+'0'
+'Billy'
+25
+'1'
+'Jimmy'
+26
+'1'
+'Kathie (Kindergarten; 4.5 years old)'
+27
+'1'
+'Billy'
+28
+'1'
+'Jimmy, Billy, and Kathie'
+29
+'1'
+'Kathie, Billy, and Jimmy'
+30
+'1'
+'The Flowers with Abbie, Julie, and Bessie'
+31
+'0'
+'Jimmy, Kathie, and Jack'
+32
+'1'
+'Kathie'
+33
+'0'
+'Jack (October 1957)'
+34
+'0'
+'Raccoons (October 1957)'
+35
+'0'
+'Kathie (October 1957)'
+36
+'0'
+'Billy (October 1957)'
+37
+'0'
+'Jimmy (October 1957)'
+38
+'0'
+'Jimmy and Kathie'
+39
+'0'
+'Raccoon'
+40
+'0'
+'Raccoon'
+41
+'0'
+'Billy (October 1957)'
+42
+'1'
+'Jimmy, Kathie, and Mary Jane (at right)'
+43
+'0'
+'Billy, Bessie, and Abbey (Mary Jane in background)'
+44
+'0'
+'Jimmy, Kathie, Billy (center)'
+45
+'1'
+'Billy'
+46
+'1'
+'Kathie and Jimmy (Halloween 1957)'
+47
+'1'
+'Jimmy (far right)'
+48
+'0'
+'Billy's New Year''s party'
+49
+'0'
+'Kathie's birthday party (1958)'
+50
+'0'
+'New Year''s Eve (1957/1958)'
+51
+'2'
+'New Year''s Eve* (1957/1958)'
+52
+'0'
+'Brent, Roy, Jimmy, Margie, Mary Kay, Mary (1958)'
+53
+'0'
+'Jimmy and Kathie'
+54
+'0'
+'Kids digging up dandelions (penny apiece)'
+55
+'0'
+'Bessie (summer 1958)'
+56
+'1'
+'Kathie'
+57
+'1'
+'Billy'
+58
+'0'
+'Kathie, Billy, and Jimmy'
+59
+'1'
+'Billy and Chuck'
+60
+'1'
+'Jack (1958)'
+61
+'1'
+'Jack'
+62
+'0'
+'Kathie, Jimmy, and Mitchel'
+63
+'0'
+'Jimmy, Kathie, and Mitchel'
+64
+'0'
+'Mary Jane (1958)'
+65
+'0'
+'Jack'
+66
+'0'
+'Jimmy and Mitchell (1958)'
+67
+'0'
+'Mary Jane, Kathie, Jack, Gail, Deyette (1958)'
+68
+'1'
+'Kathie'
+69
+'1'
+'Jimmy (9 years old)'
+70
+'1'
+'Jack'

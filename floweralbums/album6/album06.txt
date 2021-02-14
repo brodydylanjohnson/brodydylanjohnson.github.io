@@ -1,0 +1,288 @@
+1
+'2'
+'Billy & Sgt. Ramsey*'
+2
+'2'
+'Billy*'
+3
+'2'
+'Billy with Vietnamese crew*'
+4
+'2'
+'Billy*'
+5
+'2'
+'Da Nang, Vietnam*'
+6
+'2'
+'Da Nang, Vietnam*'
+7
+'2'
+'Near B-57 crash site*'
+8
+'2'
+'Da Nang AB*'
+9
+'2'
+'Billy* (behind barracks)'
+10
+'2'
+'Da Nang*'
+11
+'2'
+'Housing around Da Nang AB*'
+12
+'3'
+'Da Nang*'
+13
+'2'
+'Vietnamese children*'
+14
+'2'
+'Da Nang from a chopper* (January 1965)'
+15
+'2'
+'Da Nang* (1965)'
+16
+'2'
+'Billy in Scotland* (1966)'
+17
+'0'
+'Billy'
+18
+'1'
+'David Chasco'
+19
+'0'
+'Janice (September 1965)'
+20
+'0'
+'Janice and Billy (September 1965)'
+21
+'0'
+'Janice (1965)'
+22
+'0'
+'Jack and Billy'
+23
+'0'
+'Mary Jane and Lucky'
+24
+'0'
+'Billy (left) and friends'
+25
+'1'
+'Jack and Mary Jane'
+26
+'1'
+'Billy and Janice (June 11, 1966)'
+27
+'0'
+'Billy and Janice'
+28
+'2'
+'Billy and Janice''s wedding*'
+29
+'1'
+'Billy and Janice'
+30
+'1'
+'Jack'
+31
+'1'
+'Jack and Mrs. Desantis'
+32
+'1'
+'Billy, Janice, Mary Jane, and Jack'
+33
+'1'
+'Jimmy and Kathie'
+34
+'1'
+'Kathie, Jim, Jack, Mary Jane, Bill'
+35
+'0'
+'Billy (3rd from left; 1962-ish?)'
+36
+'0'
+'The Flower family (1966)'
+37
+'1'
+'The Flower family (1966)'
+38
+'0'
+'Jack, Mary Jane, Jimmy, and Kathie'
+39
+'0'
+'Family picnic'
+40
+'1'
+'Jimmy, Billy, and Kathie'
+41
+'1'
+'Mary Jane and Billy (summer 1966)'
+42
+'0'
+'Jimmy, Kathie, and Lucky'
+43
+'1'
+'Amy'
+44
+'1'
+'Billy (1966)'
+45
+'1'
+'Jimmy (1966)'
+46
+'1'
+'Jay'
+47
+'1'
+'Mary Jane'
+48
+'1'
+'Jimmy'
+49
+'0'
+'Kathie, Jimmy, Jack, Mary Jane, and Billy (May 1966)'
+50
+'3'
+'Billy receiving Air Medal* (at right)'
+51
+'1'
+'Billy (1967)'
+52
+'1'
+'Grandma Mary and Billy'
+53
+'1'
+'Jimmy and Kathie'
+54
+'1'
+'Jimmy (June 1967)'
+55
+'3'
+'Kathie* (1967)'
+56
+'1'
+'Gina Marie Flower (January 29, 1967)'
+57
+'0'
+'Mary Jane with Gina (May 4, 1967)'
+58
+'0'
+'Jack with Gina (May 9, 1967)'
+59
+'2'
+'Gina Marie Flower* (2.5 mos.)'
+60
+'2'
+'Gina Marie Flower* (2.5 mos.)'
+61
+'1'
+'Gina Marie Flower'
+62
+'2'
+'Mary H., Gina (18 mos.), Billy, and Mary Jane*'
+63
+'2'
+'Gina*'
+64
+'2'
+'Gina*'
+65
+'0'
+'Tom, Claire, Harry, Sarah, and Adalie Flower'
+66
+'0'
+'Gail, Mitchel, Deyette, Gary, Chris, and Tom''s family'
+67
+'0'
+'Gary and Deyette'
+68
+'2'
+'X-mas card from Bobby Palokonis*'
+69
+'0'
+'Billy with Gina and her birthday ball'
+70
+'0'
+'Gina''s 1st birthday'
+71
+'1'
+'Kathie (1968)'
+72
+'0'
+'Kathie'
+73
+'0'
+'Billy, Gina (1 year old), & Kathie'
+74
+'1'
+'Mark Chasco'
+75
+'0'
+'Jack, Jimmy, and Kathie'
+76
+'0'
+'Jimmy, Jack, and Kathie'
+77
+'0'
+'Jack, Lucky, and Kathie'
+78
+'0'
+'Jack with John Weber'
+79
+'0'
+'Gina (1968)'
+80
+'0'
+'Janice with Gina (1968)'
+81
+'0'
+'Gina (1968)'
+82
+'1'
+'Olga and Mary Jane'
+83
+'1'
+'Gina'
+84
+'1'
+'Gina'
+85
+'1'
+'Gina (18 mos.)'
+86
+'0'
+'Gina with Snoopy (1968)'
+87
+'0'
+'Gina (X-mas 1968)'
+88
+'1'
+'Kathie''s wedding day'
+89
+'1'
+'Bill and Kathie'
+90
+'1'
+'Jack, Mary Jane, Kathie, Bill (Oct. 5, 1968)'
+91
+'1'
+'Cory and Gina'
+92
+'1'
+'Mary Jane, George, and Sherry'
+93
+'1'
+'Diane, Jack, and Bobby'
+94
+'1'
+'Jimmy'
+95
+'1'
+'Jimmy'
+96
+'1'
+'Gina''s Christening (?)'

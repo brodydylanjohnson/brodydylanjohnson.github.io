@@ -1,0 +1,37 @@
+	body {	width: 60%;
+		font-size: 16pt;
+		color: black;
+		background: none;
+		font-family: marigold, arial;
+		font-weight: normal;
+		font-style: normal;
+		text-align: left;
+		margin: 0;
+		padding: 0px 0px 0px 0px;
+		}
+
+	img.solo {
+		border-style: solid;
+		border-width: 2px;
+		border-color: black;
+		height: 375px;
+	}
+
+	#bee{	margin: 0px;
+		text-align: center;
+		background: none;
+		border-width: 0px;
+		border-style: solid;
+		border-color: black;
+		color: white;
+		font-family: courier;
+	}
+
+	h1 {	color: black;
+		font-family: mathsofttext,marigold,verdana;
+		font-weight: normal;
+		font-style: italic;
+		border: 0px;
+		margin: 0px;
+		padding: 0px;
+	}
